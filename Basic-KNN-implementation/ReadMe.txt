@@ -6,4 +6,10 @@ comprehensive evaluation, including accuracy, a classification report, and a con
 visualization.
 
 
+The file is with .ipynb extension and can be opened on Jupyter Notebook. You can also copy 
+and paste the code in editor of your choice.
+
 Documentation is attached and can be found in the same folder.
+
+Regards,
+farooqahmed.tech
