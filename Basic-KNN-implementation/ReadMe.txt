@@ -8,6 +8,8 @@ visualization.
 
 The file is with .ipynb extension and can be opened on Jupyter Notebook. You can also copy 
 and paste the code in editor of your choice.
+The Documentation file is with .pdf extension and can be opened in any browser after
+downloading it.
 
 Documentation is attached and can be found in the same folder.
 
